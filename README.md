@@ -5,13 +5,13 @@
 ## Overview
 
 IberOS is a future-oriented operating system that will be developed and operated by our own hands without our knowledge, breaking through the shortcomings of all current operating systems and combining their advantages.
-Who will develop it? You will develop it.
-Who will use it? You will use it.
-When will it be operated? You decide.
-What is new? Everything is new.
-Can I participate? Welcome.
-I know little about programming? We all learn from each other and develop.
-Do we only need programmers? Anyone can advance the success of the new system with their own skills.
+- Who will develop it? You will develop it.
+- Who will use it? You will use it.
+- When will it be operated? You decide.
+- What is new? Everything is new.
+- Can I participate? Welcome.
+- I know little about programming? We all learn from each other and develop.
+- Do we only need programmers? Anyone can advance the success of the new system with their own skills.
 All of you who clicked on IberOS with new hope, your names will be written on the first line of code of the new system.
 
 ## Contributing
